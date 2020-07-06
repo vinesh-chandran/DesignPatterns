@@ -1,0 +1,9 @@
+C:\TRL\StudyMaterial\MyExperioments\DesignPatterExamples\Factory_Pattern\Factory_Pattern\obj\Debug\Factory_Pattern.csprojAssemblyReference.cache
+C:\TRL\StudyMaterial\MyExperioments\DesignPatterExamples\Factory_Pattern\Factory_Pattern\obj\Debug\Factory_Pattern.Properties.Resources.resources
+C:\TRL\StudyMaterial\MyExperioments\DesignPatterExamples\Factory_Pattern\Factory_Pattern\obj\Debug\Factory_Pattern.csproj.GenerateResource.cache
+C:\TRL\StudyMaterial\MyExperioments\DesignPatterExamples\Factory_Pattern\Factory_Pattern\obj\Debug\Factory_Pattern.csproj.CoreCompileInputs.cache
+C:\TRL\StudyMaterial\MyExperioments\DesignPatterExamples\Factory_Pattern\Factory_Pattern\bin\Debug\Factory_Pattern.exe.config
+C:\TRL\StudyMaterial\MyExperioments\DesignPatterExamples\Factory_Pattern\Factory_Pattern\bin\Debug\Factory_Pattern.exe
+C:\TRL\StudyMaterial\MyExperioments\DesignPatterExamples\Factory_Pattern\Factory_Pattern\bin\Debug\Factory_Pattern.pdb
+C:\TRL\StudyMaterial\MyExperioments\DesignPatterExamples\Factory_Pattern\Factory_Pattern\obj\Debug\Factory_Pattern.exe
+C:\TRL\StudyMaterial\MyExperioments\DesignPatterExamples\Factory_Pattern\Factory_Pattern\obj\Debug\Factory_Pattern.pdb
